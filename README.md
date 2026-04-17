@@ -2,8 +2,10 @@
 
 This is repo contains simple notebook that extract from .wav files it amplitude representation and the corresponding [spectrogram](https://en.wikipedia.org/wiki/Spectrogram).
 The audio files come from [Pete Warden's dataset](https://petewarden.com/2018/04/11/speech-commands-is-now-larger-and-cleaner/).
+Here we tested only two files that contain yes and no words.
 
-## Download audios
+
+## Download all audios
 
 ```bash
 mkdir speech
