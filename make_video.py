@@ -9,7 +9,7 @@ import os
 # =========================
 # CONFIG
 # =========================
-AUDIO_FILE = "no/1.wav"
+AUDIO_FILE = 'no/0a2b400e_nohash_0.wav'
 TEMP_VIDEO = "temp_video.mp4"
 FINAL_VIDEO = "final_output.mp4"
 
