@@ -4,6 +4,7 @@ This is repo contains simple notebook that extract from .wav files it amplitude 
 The audio files come from [Pete Warden's dataset](https://petewarden.com/2018/04/11/speech-commands-is-now-larger-and-cleaner/).
 Here we tested only two files that contain yes and no words.
 
+> You can use the spectrogram to identify create a classifier using computer vision machine learning methods or deep learning networks.
 
 ## Download all audios
 
